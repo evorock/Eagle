@@ -1,0 +1,25 @@
+Referencias con respecto al esquematico original
+
+VCC - " Voltaje de Entrada 12V"
+VCC_O - "Voltaje de Salida "
+
+A0 - " +1 "
+D9 - " +2 "
+
+A1 - " REF "
+V0 - " REF2 "
+
+IN_SEN_1 - " INSENSOR1 "
+IN_SEN_2 - " INSENSOR2 "
+
+D10 - " CS "
+D11 - " DI "
+D13 - " SCK "
+D12 - " DO "
+
+D7 - " RS "
+D2 - " DB7 "
+D4 - " DB5 "
+D6 - " E "
+D3 - " DB6 "
+D5 - " DB4 "
