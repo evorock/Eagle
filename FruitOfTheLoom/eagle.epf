@@ -379,6 +379,7 @@ UsedLibrary="/home/evorock/Workspace/Librerias/Eagle/SparkFun-Eagle-Libraries/Sp
 UsedLibrary="/home/evorock/Workspace/Librerias/Eagle/SparkFun-Eagle-Libraries/SparkFun-Sensors.lbr"
 UsedLibrary="/home/evorock/Workspace/Librerias/Eagle/SparkFun-Eagle-Libraries/SparkFun-Switches.lbr"
 UsedLibrary="/home/evorock/Workspace/Librerias/Eagle/SparkFun-Eagle-Libraries/User-Submitted.lbr"
+UsedLibrary="/home/evorock/Workspace/Eagle/Librerias/Modulos/MODULOS_MICROSD.lbr"
 
 [Win_1]
 Type="Control Panel"
